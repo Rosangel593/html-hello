@@ -1,0 +1,56 @@
+body{
+    background: black;font-family:'roboto', sans-serif;
+
+}
+.post {
+    background: white; width: 400px; margin:auto; font-size: medium;
+}
+.post-header{
+    padding: 10px; 
+    display: flex;
+    height: 40px;
+}
+
+.post-body{
+    font-size: medium;
+    padding: 5px;
+    display:flex;
+}
+
+.post-icons{
+    font-size: larger; 
+    padding:5px;
+    width: 350px;
+    }
+
+.post-end{
+    padding: 10px;
+    font-size: small;
+}
+.icon{
+    height: 40px;
+    width: 40px;
+    padding-top: 5px;
+}
+.text{
+    height: 40px;
+    width: 350px;
+}
+.dot{
+    height:40px;
+    width: 10px;
+}
+.fa-html5{
+    font-size: x-large;
+}
+.fa-ellipsis-vertical{
+    font-size: x-large;
+}
+p{
+    margin:0%;
+}
+.bookmark{
+    font-size: larger;
+    padding: 5px;
+    width: 20px;
+}
